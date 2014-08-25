@@ -1,4 +1,4 @@
-LOGMONITOR
+logmonitor
 ==========
 
 
